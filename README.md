@@ -3,15 +3,11 @@
 ## Contents
 
 * **[Prompt/Story](#Prompt):** What's the story?
-*
-**[Objective](#Objective):** What was the goal for this project?
+* **[Objective](#Objective):** What was the goal for this project?
 * **[Technologies-used](#technologies-used):** What technologies were used?
-*
-**[Specs](#specs):** What are the core features?
-*
-**[Interesting Code](#interesting-code):** What we thought was neat.
-*
-**[Future Objectives](#future-objectives):** In an ideal world, what would this look like?
+* **[Specs](#specs):** What are the core features?
+* **[Interesting Code](#interesting-code):** What we thought was neat.
+* **[Future Objectives](#future-objectives):** In an ideal world, what would this look like?
 
 ## Prompt
 [WP] Elon Musk abandons SpaceX and Tesla and starts a new cologne line called "Elon's Musk"
