@@ -6,7 +6,7 @@
 * **[Objective](#Objective):** What was the goal for this project?
 * **[Technologies-used](#technologies-used):** What technologies were used?
 * **[Specs](#specs):** What are the core features?
-* **[Interesting Code](#interesting-code):** What we thought was neat.
+* **[Interesting Code](#interesting-code):** What I thought was neat.
 * **[Future Objectives](#future-objectives):** In an ideal world, what would this look like?
 
 ## Prompt
@@ -47,7 +47,7 @@ He stares at Elon. That's the most beautiful man I've ever laid my eyes on, he t
 Elon leans back, a smug grin on his face. "Everything you've got, my friend."
 
 
-Credit: Reddit User /u/regimme
+**Credit: Reddit User /u/regimme**
 
 
 ## Objective
